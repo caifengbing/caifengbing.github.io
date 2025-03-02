@@ -1,0 +1,5 @@
+http://example.com/life/index.html
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/2025/02/28/hello-world/
+http://example.com/
